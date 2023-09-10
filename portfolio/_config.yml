@@ -65,7 +65,7 @@ exclude:
 # -------------------
 # Theme Config
 # --------------------
-title: "Jekyll Curate"
+title: "Ben Thomson"
 category_dir: category
 
 colors:
@@ -115,10 +115,10 @@ header:
   fixed: false
 
 darkmode:
-  enable_dark_mode: true
-  show_dark_mode_toggle_in_header: true
+  enable_dark_mode: false
+  show_dark_mode_toggle_in_header: false
   show_dark_mode_toggle_in_bottom: false
-  show_dark_mode_toggle_in_mobile_menu: true
+  show_dark_mode_toggle_in_mobile_menu: false
 
 analytics:
   google_analytics_id: ""
@@ -130,7 +130,7 @@ mailchimp:
   form_action_url: https://zerostatic.us13.list-manage.com/subscribe/post?u=675276692aebec1c007f8156d&amp;id=3e3da720c2
 
 contact_form: 
-  use_netlify_form: true
+  use_netlify_form: false
   use_formspree_form: false
   formspree_endpoint: https://formspree.io/f/moqyklqv
 
