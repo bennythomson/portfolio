@@ -30,3 +30,9 @@ Together, my project group and I approached this a mini product development proc
 - Manufacturable at low volumes
 
 The goal of the product was to easily attach to their existing juicing machine and provide an ergonomic interface for more easily forcing the frozen banana into the juicer. Ergonomics, comfort, and user experience were core to the design of this product, so we employed a rapid prototyping philosophy utilizing 3D printed components to "feel" how well the mechanism worked.
+
+After generating and selecting concepts, the chosen concept involved a welded stainless steel four-bar slider mechanism that is secured to the juicer with a collar.
+
+One particularly fun aspect of the project was using a linear solver to optimize the length of each link of the mechanism to reduce size while maximizing the mechanical advantage provided. 
+
+Once the geometry was settled, we went ahead in manufacturing multiple products to deliver to Amanda Bananas. Each part was machined out of stainless steel and then TIG welded together. (Still was working on learning TIG, don't judge!). The links connected to an HDPE piston that forced the banana down into the juicer.

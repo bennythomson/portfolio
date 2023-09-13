@@ -13,7 +13,7 @@ plugins:
   - jekyll-environment-variables
   - jekyll-paginate
 
-paginate: 6
+paginate: 10
 paginate_path: "/blog/page/:num"
 
 collections:
@@ -108,8 +108,8 @@ logo:
   logo_image_mobile_width: "28px"
   show_logo_image_on_mobile: false
   show_logo_image_on_desktop: false
-  show_logo_text_on_mobile: false
-  show_logo_text_on_desktop: false
+  show_logo_text_on_mobile: true
+  show_logo_text_on_desktop: true
   
 header: 
   fixed: false
