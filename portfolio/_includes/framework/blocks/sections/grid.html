@@ -1,7 +1,7 @@
 {% assign collection = include.collection %}
 {% assign cards = site[collection] %}
 {% assign limit = include.limit | default: nil %}
-{% assign sort_by = include.sort | default: 'date' %}
+{% assign sort_by = include.sort | default: 'weight' %}
 {% assign heading = include.heading %}
 {% assign sub_heading = include.sub_heading %}
 {% assign view_more_button_text = include.view_more_button_text | default: "View More" %}
@@ -10,7 +10,7 @@
 {% assign columns = include.columns | default: 3 %}
 
 {% capture columns %}col-lg-{{ 12 | divided_by:columns }}{% endcapture %}
-{% assign cards = cards | sort: 'date' | 'reverse' %}
+{% assign cards = cards | sort: 'weight'  %}
 {% if sort_by == 'weight' %}
   {% assign cards = cards | sort: 'weight' %}
 {% endif %}
@@ -48,7 +48,7 @@
               categories=card.categories
               date=card.date
               url=card.url 
-              weight=card.weight
+              weight=44
               client=card.client
               icon=card.icon
               fa_icon=card.fa_icon

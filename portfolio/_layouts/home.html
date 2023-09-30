@@ -32,6 +32,7 @@ body_classes: page-home
         categories=card.categories
         date=card.date
         url=card.url
+        weight=card.weight
         client=card.client
         %}
       </div>
@@ -40,6 +41,14 @@ body_classes: page-home
   </div>
 </div>
 {% endif %}
+<div class="section pt-0">
+  <div class="container">
+    <div class="row">
+{{ content }}
+</div>
+</div>
+</div>
+
 
 {% assign cards = site.posts %}
 {% if cards.size > 0 %}

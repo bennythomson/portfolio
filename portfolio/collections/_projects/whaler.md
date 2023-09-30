@@ -1,7 +1,7 @@
 ---
 layout: project # alternative layouts: project, project-left, project-right, project-top
 title: "1967 Boston Whaler 13"
-description: "Breathing new life into old industrial estates"
+description: "Restoring a classic Boston Whaler"
 weight: 3
 thumbnail: "/assets/images/gen/projects/whaler/whaler2.jpg"
 image: "/assets/images/gen/projects/whaler/whaler2.jpg"
@@ -10,7 +10,7 @@ gallery:
   - image: "/assets/images/gen/projects/whaler/whaler1.jpg"
   - image: "/assets/images/gen/projects/whaler/whaler2.jpg"
   - image: "/assets/images/gen/projects/whaler/whaler3.jpg"
-  - image: "/assets/images/gen/projects/whaler/whaler4.jpeg"
+  - image: "/assets/images/gen/projects/whaler/whaler4.jpg"
   - image: "/assets/images/gen/projects/whaler/whaler5.jpg"
 ---
 

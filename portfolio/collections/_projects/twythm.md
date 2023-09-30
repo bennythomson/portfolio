@@ -2,7 +2,7 @@
 layout: project # alternative layouts: project, project-left, project-right, project-top
 title: "Twythm"
 description: "An early way to share the song you are listening to on Twitter"
-weight: 3
+weight: 1
 thumbnail: "/assets/images/gen/projects/twythm/home.jpg"
 image: "/assets/images/gen/projects/twythm/home.jpg"
 categories: Business

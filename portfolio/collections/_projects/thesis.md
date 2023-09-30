@@ -2,7 +2,7 @@
 layout: project # alternative layouts: project, project-left, project-right, project-top
 title: "MIT Graduate Thesis Project"
 description: "Developing a prototype into an industrial IoT product for my MIT Graduate Thesis Project"
-weight: 0
+weight: 100
 thumbnail: "/assets/images/gen/projects/thesis/image22.png"
 image:  "/assets/images/gen/projects/thesis/image22.png"
 categories: ["School"]
