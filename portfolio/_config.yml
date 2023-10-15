@@ -73,7 +73,7 @@ colors:
   primary: "#0d042b"
   primary_2: "#0d042b"
   primary_text: "#fdfcf9"
-  background: "#fdfcf9"
+  background: "#fff"
   background_2: "#f7f6ed"
   background_3: "#faebd7"
   text: "#0d042b"
@@ -115,8 +115,8 @@ header:
   fixed: false
 
 darkmode:
-  enable_dark_mode: false
-  show_dark_mode_toggle_in_header: false
+  enable_dark_mode: true
+  show_dark_mode_toggle_in_header: true
   show_dark_mode_toggle_in_bottom: false
   show_dark_mode_toggle_in_mobile_menu: false
 

@@ -1,11 +1,11 @@
 ---
 layout: project # alternative layouts: project, project-left, project-right, project-top
 title: "Jet ski(s)"
-description: "Fixing up two "free" jet skis from Craigslist"
+description: "Fixing up two free jet skis from Craigslist"
 weight: 104
 thumbnail: "/assets/images/gen/projects/jetski/wr1.jpg"
 image: "/assets/images/gen/projects/jetski/wr1.jpg"
-categories: ["School"]
+categories: ["Personal"]
 gallery:
   - image: "/assets/images/gen/projects/jetski/2.jpeg"
   - image: "/assets/images/gen/projects/jetski/3.jpeg"
@@ -18,7 +18,6 @@ gallery:
   - image: "/assets/images/gen/projects/jetski/10.jpeg"
   - image: "/assets/images/gen/projects/jetski/11.jpeg"
   - image: "/assets/images/gen/projects/jetski/12.jpeg"
-
 ---
 
 In March of 2020, correctly anticipating I would soon have a lot more free time, I found a free Wave Runner on Craigslist. I was searching for a project that would let me get my hands dirty and give me something fun to do over the summer.

@@ -2,7 +2,7 @@
 layout: project # alternative layouts: project, project-left, project-right, project-top
 title: "MIT Graduate Thesis Project"
 description: "Developing a prototype into an industrial IoT product for my MIT Graduate Thesis Project"
-weight: 100
+weight: 1
 thumbnail: "/assets/images/gen/projects/thesis/image22.png"
 image:  "/assets/images/gen/projects/thesis/image22.png"
 categories: ["School"]
@@ -24,7 +24,7 @@ One company's problem statement, Labby, absolutely captivated me and I allocated
 They had successfully developed a prototype Milk Analyzer device and validated the technology with a pilot project. The presented problem revolved around transforming their proof of concept device to a robust and manufacturable industrial product. 
 
 
-| ![space-1.jpg](/assets/images/gen/projects/thesis/image32.jpg) | 
+| ![Original prototype](/assets/images/gen/projects/thesis/image32.jpg) | 
 |:--:| 
 | *The original Milk Analyzer prototype* |
 

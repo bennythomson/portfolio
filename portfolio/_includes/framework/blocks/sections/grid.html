@@ -7,7 +7,7 @@
 {% assign view_more_button_text = include.view_more_button_text | default: "View More" %}
 {% assign view_more_button_link = include.view_more_button_link %}
 {% assign view_more_button_align = include.view_more_button_align | default: "right" %}
-{% assign columns = include.columns | default: 3 %}
+{% assign columns = 3 %}
 
 {% capture columns %}col-lg-{{ 12 | divided_by:columns }}{% endcapture %}
 {% assign cards = cards | sort: 'weight'  %}

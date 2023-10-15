@@ -8,7 +8,7 @@ image: "/assets/images/gen/projects/dnyg/dnyg1.jpeg"
 categories: ["Business"]
 gallery:
   - image: "/assets/images/gen/projects/dnyg/dnyg1.jpeg"
-  - image: "/assets/images/gen/projects/dnyg/santa.jpeg"
+  - image: "/assets/images/gen/projects/dnyg/santa.jpg"
 ---
 
 Every New Year, novelty glasses shaped like the upcoming year make an appearance. The year 2020 (with two zeroes) lent itself to the ideal design for these novelty glasses — the cutouts for the wearer’s eyes would fit perfectly inside each zero. 
