@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: "I'm a mechanical engineer passionate about product development, startups, software, and much more."
-description: "I enjoy building useful things, and I am eager to express that through software, manufacturing, and engineering."
+title: "I'm a mechanical engineer passionate about product development, engineering design, manufacturing, software, and much more."
+description: "Check out some of the cool things I've worked on below"
 meta_description: "Jekyll Curate is a premium Jekyll blog theme"
-meta_title: Jekyll Curate
+meta_title: Ben Thomson
 subscribe: false
 
 projects:
@@ -27,3 +27,4 @@ posts:
   view_more_button_align: ""
   columns: 3 # 1 | 2 | 3 | 4
 ---
+

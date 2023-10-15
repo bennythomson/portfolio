@@ -2,7 +2,7 @@
 layout: project # alternative layouts: project, project-left, project-right, project-top
 title: "Welding Projects"
 description: "Buying a TIG welder and learning to weld. In that order."
-weight: 3
+weight: 2
 thumbnail: "/assets/images/gen/projects/welding/image4.jpeg"
 image: "/assets/images/gen/projects/welding/image4.jpeg"
 categories: Personal

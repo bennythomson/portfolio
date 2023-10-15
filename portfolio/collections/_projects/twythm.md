@@ -2,13 +2,11 @@
 layout: project # alternative layouts: project, project-left, project-right, project-top
 title: "Twythm"
 description: "An early way to share the song you are listening to on Twitter"
-weight: 10
+weight: 100
 thumbnail: "/assets/images/gen/projects/twythm/home.jpg"
 image: "/assets/images/gen/projects/twythm/home.jpg"
 categories: Business
-gallery:
-  - image: "/assets/images/gen/projects/twythm/home.jpg"
- 
+
 ---
 
 Back in 2012 when I first learning web development, I had an idea for a website to easily share the song you were listening to on social media. Twitter did not have many rich content types back then (only pictures IIRC), and I thought it would be cool to allow people to share what they were listening to.

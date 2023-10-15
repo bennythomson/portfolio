@@ -2,7 +2,7 @@
 layout: project # alternative layouts: project, project-left, project-right, project-top
 title: "Turbo Detail"
 description: "A micro B2B SaaS"
-weight: 3
+weight: 100
 thumbnail: "/assets/images/gen/projects/turbodetail/a.jpeg"
 image: "/assets/images/gen/projects/turbodetail/a.jpeg"
 categories: ["Business"]

@@ -2,7 +2,7 @@
 layout: project # alternative layouts: project, project-left, project-right, project-top
 title: "The Banana Smasher"
 description: "Senior design project from Stevens Institute of Technology"
-weight: 3
+weight: 2
 thumbnail: "/assets/images/gen/projects/banana/image9.png"
 image: "/assets/images/gen/projects/banana/image9.png"
 categories: ["School"]

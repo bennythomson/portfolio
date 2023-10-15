@@ -14,6 +14,7 @@ gallery:
   - image: "/assets/images/gen/projects/thesis/image47.jpg"
   - image: "/assets/images/gen/projects/thesis/image77.jpg"
   - image: "/assets/images/gen/projects/thesis/image66.jpg"
+  - image: "/assets/images/gen/projects/thesis/image101.png"
   
 ---
 

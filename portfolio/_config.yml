@@ -86,7 +86,7 @@ colors:
   background_dark: "#0b0326"
   background_2_dark: "#150c32"
   background_3_dark: "#251654"
-  text_dark: "#f5f5ec"
+  text_dark: "#fff"
   text_2_dark: "#929eaf"
 
 fonts:
